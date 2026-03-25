@@ -25,7 +25,7 @@ function App() {
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          Count Jake is {count}
         </button>
       </section>
 
@@ -42,7 +42,7 @@ function App() {
             <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
+                Explore WashU
               </a>
             </li>
             <li>
